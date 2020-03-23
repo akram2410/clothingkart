@@ -19,7 +19,7 @@
     "redux-persist": "5.10.0",
     "serve": "^11.3.0"
   },
-  "homepage": "https://akram2410.github.io/clothingkart",
+  "homepage": ".",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

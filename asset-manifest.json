@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/clothingkart/static/css/main.58f7db0f.chunk.css",
+    "main.js": "/clothingkart/static/js/main.1896d2ec.chunk.js",
+    "main.js.map": "/clothingkart/static/js/main.1896d2ec.chunk.js.map",
+    "runtime-main.js": "/clothingkart/static/js/runtime-main.d456022d.js",
+    "runtime-main.js.map": "/clothingkart/static/js/runtime-main.d456022d.js.map",
+    "static/js/2.a151c3cf.chunk.js": "/clothingkart/static/js/2.a151c3cf.chunk.js",
+    "static/js/2.a151c3cf.chunk.js.map": "/clothingkart/static/js/2.a151c3cf.chunk.js.map",
+    "index.html": "/clothingkart/index.html",
+    "precache-manifest.67452b8ca8197b1406d401ea7ebf2c0b.js": "/clothingkart/precache-manifest.67452b8ca8197b1406d401ea7ebf2c0b.js",
+    "service-worker.js": "/clothingkart/service-worker.js",
+    "static/css/main.58f7db0f.chunk.css.map": "/clothingkart/static/css/main.58f7db0f.chunk.css.map",
+    "static/js/2.a151c3cf.chunk.js.LICENSE": "/clothingkart/static/js/2.a151c3cf.chunk.js.LICENSE",
+    "static/media/crown.19ef7b17.svg": "/clothingkart/static/media/crown.19ef7b17.svg",
+    "static/media/shopping-bag.30f07071.svg": "/clothingkart/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d456022d.js",
+    "static/js/2.a151c3cf.chunk.js",
+    "static/css/main.58f7db0f.chunk.css",
+    "static/js/main.1896d2ec.chunk.js"
+  ]
+}
